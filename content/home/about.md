@@ -20,7 +20,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer Science"
+  course = "PhD in Computer Science (in progress)"
   institution = "Pontifical Catholic University of Rio Grande do Sul"
   year = 2020
 
