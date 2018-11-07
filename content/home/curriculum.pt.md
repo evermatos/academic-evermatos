@@ -38,9 +38,9 @@ weight = 60
 <em>University of Southern California, Los Angeles, CA</em> <br/>
 Pesquisador visitante Fulbright com foco principal em desenvolver a tese de doutorado. Pesquisas na área de Internet of Things. Pesquisa em IoT marketplaces e tomada de decisões baseadas no contexto. Publicação de artigos científicos.</p>
 
-<p><strong>Adjunct Professor</strong> (Feb. 2018 - Present) <br/>
-<em>IMED, Passo Fundo, Brazil</em> <br/>
-Lessons in Computer Architecture and Organization, and Cryptography and Information Security. Research in Embedded systems and Internet of Things.</p>
+<p><strong>Professor Adjunto</strong> (Fev. 2018 - Presente) <br/>
+<em>IMED, Passo Fundo, Brasil</em> <br/>
+Leciona as disciplinas de Arquitetura e Organização de Computadores e Internet of Things. Pesquisas na área de Sistemas Embarcados e Internet of Things.</p>
 
 <p><strong>Researcher</strong> (Mar. 2014 - Present) <br/>
 <em>Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil</em> <br />
