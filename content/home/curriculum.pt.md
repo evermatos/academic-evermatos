@@ -65,12 +65,12 @@ Desenvolvimento de algoritmos para processamento paralelo utilizando linguagem R
 <h1 id="awards">Prêmios e Honrarias:</h1>
 
 <ul>
-<li><strong>2018</strong> Doctoral Dissertation Research Award Scholarship - Fulbright</li>
-<li><strong>2016</strong> Approved with honor at the MSc in Computer Science - Pontifical Catholic University of Rio Grande do Sul</li>
-<li><strong>2015</strong> Finalist (among 10 best) in the contest of best Master&rsquo;s Thesis in Computer Science of Brazilian Computer Society</li>
+<li><strong>2018</strong> Bolsa Doctoral Dissertation Research Award (DDRA) - Fulbright</li>
+<li><strong>2016</strong> Aprovado com louvor no Mestrado em Ciência da Computação - Pontifícia Universidade Católica do Rio Grande do Sul</li>
+<li><strong>2015</strong> Finalista (entre os 10 melhores) no concurso de melhor Dissertação de Mestrado da Sociedade Brasileira de Computação</li>
 </ul>
 
-<h1 id="languages">Languages:</h1>
+<h1 id="languages">Idiomas:</h1>
 
 <ul>
 <li><strong>Portuguese</strong> - native</li>
