@@ -38,10 +38,10 @@ weight = 5
 
 # Biografia
 
-Everton de Matos is a Ph.D. candidate in the area of context-awareness for Internet of Things, at the Computer Science School at the [Pontifical Catholic University of Rio Grande do Sul (PUCRS)](http://www.pucrs.br/), acting at Embedded System Group (GSE), with [Prof. Fabiano Hessel](https://scholar.google.com/citations?user=cZguQ0UAAAAJ) as his advisor.
+Everton de Matos é um estudante de Doutorado, na área de context-awarenes para Internet of Things, na Escola Politécnica da [Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)](http://www.pucrs.br/), atuando no Grupo de Sistemas Embarcados (GSE), com o Prof. Fabiano Hessel](https://scholar.google.com/citations?user=cZguQ0UAAAAJ) como seu orientador.
 
-He was awarded a [Fulbright](http://fulbright.org.br/) scholarship to develop his doctoral dissertation at the [University of Southern California (USC)](https://www.usc.edu/) on the 2018-2019 academic year, under the guidance of [Prof. Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/).
+Everton foi contemplado com uma bolsa [Fulbright](http://fulbright.org.br/) para desenvolver sua tese de Doutorado na [University of Southern California (USC)](https://www.usc.edu/) durante o ano acadêmico 2018-2019, sob a supervisão do [Prof. Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/).
 
-He has experience in computer science and his research interests are IoT, Middleware for IoT, and context-awareness in IoT environments. Has B.Sc. degree in Computer Science from the University of Passo Fundo (UPF) (2014) and M.Sc. in Computer Science from PUCRS (2016). Has Experience with IoT frameworks and platforms. Experience in the following technologies: Web Services, Hibernate, Maven, PHP, JSF, C#, Javascript, jQuery, APIs, HTML, CSS, PostgreSQL, MySQL. Knowledge of software engineering practices. Proficient in Java and C++. Has publications in important conferences and journals. 
+Everton possui experiência na ciência da computação e seus principais interesses de pesquisa são IoT, Middleware para IoT, e context-awareness em ambientes IoT. Ele possui Bacharelado em Ciência da Computação pela Universidade de Passo Fundo (UPF) (2014) e Mestrado em Ciência da Computação pela PUCRS (2016). Possui experiência nas seguintes tecnologias: Web Services, Hibernate, Maven, PHP, JSF, C#, Javascript, jQuery, APIs, HTML, CSS, PostgreSQL, MySQL. Conhecimento em práticas de engenharia de software. Proficiente nas linguagens Java e C++. Possui publicações em importantes conferências e revistas.
 
 Atua como Professor na [IMED - Passo Fundo](https://www.imed.edu.br/) com as disciplinas de <em>Arquitetura e Organização de Computadores</em> e <em>Internet of Things</em>.
