@@ -343,12 +343,9 @@ enableGitInfo = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
-<<<<<<< HEAD
 
 [languages.pt]
   languageCode = "pt"
-=======
->>>>>>> parent of 9377a75... Update
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
