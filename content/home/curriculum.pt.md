@@ -34,9 +34,9 @@ weight = 60
 
 <h1 id="professional">Experiência Profissional:</h1>
 
-<p><strong>Visiting Researcher</strong> (Aug. 2018 - Present) <br/>
+<p><strong>Pesquisador Visitante</strong> (Ago. 2018 - Presente) <br/>
 <em>University of Southern California, Los Angeles, CA</em> <br/>
-Fulbright visiting researcher with main foucus in develop the doctoral dissertation. Research in the Internet of Things area. Research in IoT marketplaces and context-drive decisions.Publication of scientific papers.</p>
+Pesquisador visitante Fulbright com foco principal em desenvolver a tese de doutorado. Pesquisas na área de Internet of Things. Pesquisa em IoT marketplaces e tomada de decisões baseadas no contexto. Publicação de artigos científicos.</p>
 
 <p><strong>Adjunct Professor</strong> (Feb. 2018 - Present) <br/>
 <em>IMED, Passo Fundo, Brazil</em> <br/>
