@@ -60,7 +60,7 @@ Design e desenvolvimento de componentes para o sistema de Intranet da companhia.
 
 <p><strong>Pesquisador</strong> (Jan. 2011 - Jul. 2012) <br/>
 <em>University of Passo Fundo, Passo Fundo, Brazil</em> <br/>
-Developed algorithms for parallel processing using R and C-XSC. Designed and implemented a low-cost prototype with motion sensors that can measure human body balance using various sensors and Arduino. Presented the results of the prototype implementation at scholar events at the University. </p>
+Desenvolvimento de algoritmos para processamento paralelo utilizando linguagem R e C-XSC. Design e desenvolvimento de um protótipo de baixo custo, através da plataforma Arduino, com sensores de movimento a fim de medir o equilibrio humano. Apresentação dos resultados do desenvolvimento do protótipo em eventos escolares na Universidade de Passo Fundo.</p>
 
 <h1 id="awards">Awards and Honors:</h1>
 
