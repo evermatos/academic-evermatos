@@ -50,9 +50,9 @@ Pesquisa na área de sistemas embarcados e computação ubíqua. Pesquisa em Com
 <em>Fundatec, Porto Alegre, Brasil</em> <br/>
 Lecionou disciplinas de Linguagem de Programação, utilizando Java e banco de dados (MySQL e Hibernate), com foco no desenvolvimento de soluções para IoT. Também lecionou a disciplina de Sistemas Operacionais.</p>
 
-<p><strong>Intern</strong> (May. 2013 - Feb. 2014) <br/>
-<em>Atua Sistemas de Informação, Passo Fundo, Brazil</em> <br/>
-Website designer/coder. Created web pages for the company's web site system. Developed functions in a system to address road cargo transportation (PHP). Implementeded functions of database query and user interaction (PostgreSQL, JavaScript). Performed stress testing.</p>
+<p><strong>Estagiário</strong> (Mai. 2013 - Fev. 2014) <br/>
+<em>Atua Sistemas de Informação, Passo Fundo, Brasil</em> <br/>
+Programador web. Criação de páginas web para o website da companhia. Desenvolvimento de funções em um sistema voltado para cargas rodoviárias, utilizando a linguagem PHP. Desenvolvimento de funções para geração de relatórios através de pesquisas dos usuários (PostgreSQL, JavaScript). Realização de testes de software.</p>
 
 <p><strong>Intern</strong> (Aug. 2012 - May. 2013) <br/>
 <em>Caixa Econômica Federal, Passo Fundo, Brazil</em> <br/>
