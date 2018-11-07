@@ -367,7 +367,7 @@ enableGitInfo = false
   url = "#contact"
   weight = 4
 
-[[languages.pt.params]]
+[languages.pt.params]
   role = "Professor de Ciência da Computação"
 
 # Uncomment the lines below to configure your website in a second language.

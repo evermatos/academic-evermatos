@@ -1,6 +1,6 @@
 +++
-# About/Biography widget.
-widget = "about"
+# About/Biografia widget.
+widget = "aboutbr"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -36,7 +36,7 @@ weight = 5
  
 +++
 
-# Biography
+# Biografia
 
 Everton de Matos is a Ph.D. candidate in the area of context-awareness for Internet of Things, at the Computer Science School at the [Pontifical Catholic University of Rio Grande do Sul (PUCRS)](http://www.pucrs.br/), acting at Embedded System Group (GSE), with [Prof. Fabiano Hessel](https://scholar.google.com/citations?user=cZguQ0UAAAAJ) as his advisor.
 
