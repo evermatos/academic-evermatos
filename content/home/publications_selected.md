@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Publications"
+title = "Selected Publications"
 subtitle = "[More Publications >>](/publication)"
 
 # Order that this section will appear in.
@@ -18,7 +18,7 @@ weight = 10
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 0
+list_format = 2
 
 # Filter by publication type.
 # -1: Any
