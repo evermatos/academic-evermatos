@@ -44,4 +44,4 @@ He was awarded a [Fulbright](http://fulbright.org.br/) scholarship to develop hi
 
 He has experience in computer science and his research interests are IoT, Middleware for IoT, and context-awareness in IoT environments. Has B.Sc. degree in Computer Science from the University of Passo Fundo (UPF) (2014) and M.Sc. in Computer Science from PUCRS (2016). Has Experience with IoT frameworks and platforms. Experience in the following technologies: Web Services, Hibernate, Maven, PHP, JSF, C#, Javascript, jQuery, APIs, HTML, CSS, PostgreSQL, MySQL. Knowledge of software engineering practices. Proficient in Java and C++. Has publications in important conferences and journals. 
 
-Acts as Professor at [IMED - Passo Fundo](https://www.imed.edu.br/) with both <em>Computer Architecture and Organization</em> and <em>Internet of Things</em> lessons.
+Atua como Professor na [IMED - Passo Fundo](https://www.imed.edu.br/) com as disciplinas de <em>Arquitetura e Organização de Computadores</em> e <em>Internet of Things</em>.
