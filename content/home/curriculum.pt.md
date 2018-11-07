@@ -46,9 +46,9 @@ Leciona as disciplinas de Arquitetura e Organização de Computadores e Internet
 <em>Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brasil</em> <br/>
 Pesquisa na área de sistemas embarcados e computação ubíqua. Pesquisa em Compartilhamento de Contexto, que é um requisito essencial para se ter uma definição comum da informação de contexto em ambientes heterogêneos da IoT. Publicação de artigos científicos.</p>
 
-<p><strong>Professor Horista</strong> (Ago. 2016 - Dez. 2017) <br/>
-<em>Fundatec, Porto Alegre, Brasil</em> <br/>
-Lecionou disciplinas de Linguagem de Programação, utilizando Java e banco de dados (MySQL and Hibernate), com foco no desenvolvimento de soluções para IoT. Também lecionou a disciplina de Sistemas Operacionais.</p>
+<p><strong>Lecturer</strong> (Aug. 2016 - Dec. 2017) <br/>
+<em>Fundatec, Porto Alegre, Brazil</em> <br/>
+Taught lessons on Programming Language, using Java, and databases (MySQL and Hibernate) with main focus in development of IoT environments. Also teached the Operating Systems lesson.</p>
 
 <p><strong>Intern</strong> (May. 2013 - Feb. 2014) <br/>
 <em>Atua Sistemas de Informação, Passo Fundo, Brazil</em> <br/>
