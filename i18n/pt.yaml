@@ -28,7 +28,7 @@
 
 # About widget
 
-- id: aboutbr
+- id: about
   translation: Biografia
 
 - id: interests
