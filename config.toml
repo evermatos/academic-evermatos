@@ -343,6 +343,8 @@ enableGitInfo = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
+[languages.pt]
+  languageCode = "pt-br"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
