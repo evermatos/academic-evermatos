@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Curriculum"
+title = "Currículo"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,22 +15,22 @@ weight = 60
 
 +++
 
-<h1 id="education">Education:</h1>
+<h1 id="education">Educação:</h1>
 
-<p><strong>PhD in Computer Science</strong> (Mar. 2016 - Present) <br/>
-<em>Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil</em> <br/>
-<strong>Advisor</strong>: Dr. Fabiano Hessel</p>
+<p><strong>Doutorado em Ciência da Computação</strong> (Mar. 2016 - Presente) <br/>
+<em>Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brasil</em> <br/>
+<strong>Orientador</strong>: Dr. Fabiano Hessel</p>
 
-<p><strong>MSc in Computer Science</strong> (Mar. 2014 - Mar. 2016) <br/>
-<em>Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil</em> <br />
-<strong>Title</strong>: Context-Aware Information Services Provision for IoT Environments <br/>
-<strong>Advisor</strong>: Dr. Fabiano Hessel <br/>
-<strong>Co-Advisor</strong>: Dr. Leonardo Albernaz Amaral</p>
+<p><strong>Mestrado em Ciência da Computação</strong> (Mar. 2014 - Mar. 2016) <br/>
+<em>Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brasil</em> <br/>
+<strong>Título</strong>: Context-Aware Information Services Provision for IoT Environments <br/>
+<strong>Orientador</strong>: Dr. Fabiano Hessel <br/>
+<strong>Co-Orientador</strong>: Dr. Leonardo Albernaz Amaral</p>
 
-<p><strong>BSc in Computer Science</strong> (Feb. 2010 - Jan. 2014) <br/>
-<em>University of Passo Fundo, Passo Fundo, Brazil</em> <br/>
-<strong>Title</strong>: Desenvolvimento de um protótipo de baixo custo para mensurar o equilíbrio corporal com uso de acelerômetro e giroscópio <br/>
-<strong>Advisor</strong>: Dr. Carlos Holbig</p>
+<p><strong>Bacharelado em Ciência da Computação</strong> (Fev. 2010 - Jan. 2014) <br/>
+<em>Universidade de Passo Fundo, Passo Fundo, Brasil</em> <br/>
+<strong>Título</strong>: Desenvolvimento de um protótipo de baixo custo para mensurar o equilíbrio corporal com uso de acelerômetro e giroscópio <br/>
+<strong>Orientador</strong>: Dr. Carlos Holbig</p>
 
 <h1 id="professional">Professional Experience:</h1>
 
