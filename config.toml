@@ -346,6 +346,8 @@ enableGitInfo = false
 
 [languages.pt]
   languageCode = "pt"
+  [languages.pt.params]
+    role = "Professor de Ciência da Computação"
 
 [[languages.pt.menu.main]]
   name = "Início"
@@ -366,9 +368,6 @@ enableGitInfo = false
   name = "Contato"
   url = "#contact"
   weight = 4
-
-[languages.pt.params]
-  role = "Professor de Ciência da Computação"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
