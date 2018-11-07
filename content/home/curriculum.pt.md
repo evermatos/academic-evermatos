@@ -54,8 +54,8 @@ Lecionou disciplinas de Linguagem de Programação, utilizando Java e banco de d
 <em>Atua Sistemas de Informação, Passo Fundo, Brasil</em> <br/>
 Programador web. Criação de páginas web para o website da companhia. Desenvolvimento de funções em um sistema voltado para cargas rodoviárias, utilizando a linguagem PHP. Desenvolvimento de funções para geração de relatórios através de pesquisas dos usuários (PostgreSQL, JavaScript). Realização de testes de software.</p>
 
-<p><strong>Intern</strong> (Aug. 2012 - May. 2013) <br/>
-<em>Caixa Econômica Federal, Passo Fundo, Brazil</em> <br/>
+<p><strong>Estagiário</strong> (Ago. 2012 - Mai. 2013) <br/>
+<em>Caixa Econômica Federal, Passo Fundo, Brasil</em> <br/>
 Designed and implemented components for company's Intranet. Designed part of the database for the Intranet and did some routine maintenance tasks on the server (SQLServer, Windows 2000). Implemented methods to enable the analysis of financial transactions by bank administrators (.Net, C#, Visual Basic).</p>
 
 <p><strong>Researcher</strong> (Jan. 2011 - Jul. 2012) <br/>
