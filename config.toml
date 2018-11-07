@@ -347,6 +347,29 @@ enableGitInfo = false
 [languages.pt]
   languageCode = "pt"
 
+[[languages.pt.menu.main]]
+  name = "Início"
+  url = "#about"
+  weight = 1
+
+[[languages.pt.menu.main]]
+  name = "Publicações"
+  url = "#publications_selected"
+  weight = 2
+
+[[languages.pt.menu.main]]
+  name = "CV"
+  url = "#curriculum"
+  weight = 3
+
+[[languages.pt.menu.main]]
+  name = "Contato"
+  url = "#contact"
+  weight = 4
+
+[[languages.pt.params]]
+  role = "Professor de Ciência da Computação"
+
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
 #  languageCode = "zh-Hans"
