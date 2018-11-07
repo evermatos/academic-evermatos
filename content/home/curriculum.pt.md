@@ -32,19 +32,19 @@ weight = 60
 <strong>Título</strong>: Desenvolvimento de um protótipo de baixo custo para mensurar o equilíbrio corporal com uso de acelerômetro e giroscópio <br/>
 <strong>Orientador</strong>: Dr. Carlos Holbig</p>
 
-<h1 id="professional">Professional Experience:</h1>
+<h1 id="professional">Experiência Profissional:</h1>
 
-<p><strong>Visiting Researcher</strong> (Aug. 2018 - Present) <br/>
+<p><strong>Pesquisador Visitante</strong> (Ago. 2018 - Presente) <br/>
 <em>University of Southern California, Los Angeles, CA</em> <br/>
-Fulbright visiting researcher with main foucus in develop the doctoral dissertation. Research in the Internet of Things area. Research in IoT marketplaces and context-drive decisions.Publication of scientific papers.</p>
+Pesquisador visitante Fulbright com foco principal em desenvolver a tese de doutorado. Pesquisas na área de Internet of Things. Pesquisa em IoT marketplaces e tomada de decisões baseadas no contexto. Publicação de artigos científicos.</p>
 
-<p><strong>Adjunct Professor</strong> (Feb. 2018 - Present) <br/>
-<em>IMED, Passo Fundo, Brazil</em> <br/>
-Lessons in Computer Architecture and Organization, and Cryptography and Information Security. Research in Embedded systems and Internet of Things.</p>
+<p><strong>Professor Adjunto</strong> (Fev. 2018 - Presente) <br/>
+<em>IMED, Passo Fundo, Brasil</em> <br/>
+Leciona as disciplinas de Arquitetura e Organização de Computadores e Internet of Things. Pesquisas na área de Sistemas Embarcados e Internet of Things.</p>
 
-<p><strong>Researcher</strong> (Mar. 2014 - Present) <br/>
-<em>Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil</em> <br />
-Research in embedded systems and ubiquitous computing. Research in Context Sharing that is an essential requirement to have a common context information definition for heterogeneous IoT entities. Publication of scientific papers.</p>
+<p><strong>Pesquisador</strong> (Mar. 2014 - Presente) <br/>
+<em>Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brasil</em> <br/>
+Pesquisa na área de sistemas embarcados e computação ubíqua. Pesquisa em Compartilhamento de Contexto, que é um requisito essencial para se ter uma definição comum da informação de contexto em ambientes heterogêneos da IoT. Publicação de artigos científicos.</p>
 
 <p><strong>Lecturer</strong> (Aug. 2016 - Dec. 2017) <br/>
 <em>Fundatec, Porto Alegre, Brazil</em> <br/>
