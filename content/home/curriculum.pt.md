@@ -73,9 +73,9 @@ Desenvolvimento de algoritmos para processamento paralelo utilizando linguagem R
 <h1 id="languages">Idiomas:</h1>
 
 <ul>
-<li><strong>Portuguese</strong> - native</li>
-<li><strong>English</strong> - Speaking/Listening – advanced, Writing/Reading – advanced - TOEFL ITP Score: 560</li>
-<li><strong>Spanish</strong> - Speaking/Listening – intermediate, Writing/Reading – beginner</li>
+<li><strong>Português</strong> - nativo</li>
+<li><strong>Inglês</strong> - Fala/Compreensão – avançado, Escrita/Leitura – avançado - Nota TOEFL ITP: 560</li>
+<li><strong>Espanhol</strong> - Fala/Compreensão – intermediário, Escrita/Leitura – iniciante</li>
 </ul>
 
 
