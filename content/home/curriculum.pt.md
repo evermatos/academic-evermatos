@@ -48,7 +48,7 @@ Pesquisa na área de sistemas embarcados e computação ubíqua. Pesquisa em Com
 
 <p><strong>Professor Horista</strong> (Ago. 2016 - Dez. 2017) <br/>
 <em>Fundatec, Porto Alegre, Brasil</em> <br/>
-Taught lessons on Programming Language, using Java, and databases (MySQL and Hibernate) with main focus in development of IoT environments. Also teached the Operating Systems lesson.</p>
+Lecionou disciplinas de Linguagem de Programação, utilizando Java e banco de dados (MySQL e Hibernate), com foco no desenvolvimento de soluções para IoT. Também lecionou a disciplina de Sistemas Operacionais.</p>
 
 <p><strong>Intern</strong> (May. 2013 - Feb. 2014) <br/>
 <em>Atua Sistemas de Informação, Passo Fundo, Brazil</em> <br/>
