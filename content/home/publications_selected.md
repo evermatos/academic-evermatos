@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Publications"
-subtitle = "[More Publications >>](/publications)"
+subtitle = "[More Publications >>](/publication)"
 
 # Order that this section will appear in.
 weight = 10
