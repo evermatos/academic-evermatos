@@ -56,7 +56,7 @@ Programador web. Criação de páginas web para o website da companhia. Desenvol
 
 <p><strong>Estagiário</strong> (Ago. 2012 - Mai. 2013) <br/>
 <em>Caixa Econômica Federal, Passo Fundo, Brasil</em> <br/>
-Designed and implemented components for company's Intranet. Designed part of the database for the Intranet and did some routine maintenance tasks on the server (SQLServer, Windows 2000). Implemented methods to enable the analysis of financial transactions by bank administrators (.Net, C#, Visual Basic).</p>
+Design e desenvolvimento de componentes para o sistema de Intranet da companhia. Design de parte do banco de dados para o sistema Intranet e realização de rotinas de manutenção nos servidores (SQLServer, Windows 2000). Desenvolvimento de funções utilizadas pelos bancários a fim de permitir a análise de transações financeiras (.Net, C#, Visual Basic).</p>
 
 <p><strong>Researcher</strong> (Jan. 2011 - Jul. 2012) <br/>
 <em>University of Passo Fundo, Passo Fundo, Brazil</em> <br/>
