@@ -1,10 +1,10 @@
 +++
-title = "2015 Etfa Mat"
-date = 2018-11-06T19:46:37-08:00
+title = "Context-Aware System for Information Services Provision in the Internet of Things"
+date = 2015-09-11T19:46:34-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Everton de Matos", "Leonardo A. Amaral", "Ramão Tiburski", "Willian T. Lunardi", "Fabiano Hessel", "Sabrina Marczak"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "IEEE 20th Conference on Emerging Technologies & Factory Automation (ETFA)"
+publication_short = "IEEE ETFA 2015"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "In the last years a new computing paradigm called Internet of Things (IoT) has been gaining more attention. This paradigm has become popular by embedding mobile network and processing capability into a wide range of physical computing devices used in everyday life of many people. An important part that composes the IoT is the middleware, which is a system that abstracts the management of physical devices and provides services based on the information of these devices. Context-aware is an important feature of IoT middleware systems. This feature allows to discover, understand, and store relevant information related to devices and their respective events. In this sense, this work aims to present an ongoing system that has been developed to provide services of contextualized information about IoT devices in heterogeneous environments."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/7301624/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/ETFA.2015.7301624"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -1,10 +1,10 @@
 +++
-title = "2017 Iscc Mat"
-date = 2018-11-06T19:44:49-08:00
+title = "A Sensing-as-a-Service Context-Aware System for Internet of Things Environments"
+date = 2017-01-11T19:44:49-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Everton de Matos", "Leonardo Albernaz Amaral", "Ramão Tiago Tiburski", "Matheus Crespi Schenfeld", "Dario F. G. de Azevedo", "Fabiano Hessel"]
 
 # Publication type.
 # Legend:
@@ -15,18 +15,18 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "14th IEEE Annual Consumer Communications & Networking Conference (CCNC)"
+publication_short = "IEEE CCNC 2017"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The Internet of Things (IoT) will connect billions of devices deployed around the world in a near future by embedding mobile network and processing power capabilities into a wide range of physical computing devices used in everyday life of many people. Recent studies concerning IoT have addressed not only the interoperability of devices, but also the context awareness feature which makes easy to discover, understand, and store relevant information related to IoT devices. This work aims to present a Context-Aware System called CONASYS, a system able to sense the environment and to provide contextualized services to the users, meeting the users needs without specific knowledge of the environment, and improving the Quality of Experience (QoE). We present in details the architecture of CONASYS, the technical issues related to the implementation of the system, and evaluation tests."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/7983223"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/CCNC.2017.7983223"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

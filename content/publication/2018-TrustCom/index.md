@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications"
-publication_short = "TrustCom 2018"
+publication_short = "IEEE TrustCom 2018"
 
 # Abstract and optional shortened version.
 abstract = "Nowadays security and privacy in Internet of Things (IoT) environments is a real issue. Traditional security mechanisms use a non-aware approach, in which static parameters are used to provide secure decisions. IoT is a dynamic environment. Thus a non-static approach for security provision becomes mandatory. Context-aware security appears as a viable choice for this kind of processing. It uses the context information of IoT environments thus providing dynamic security. When together with context sharing feature, it can add new dimensions to the IoT security. Context sharing allows the use of off-domain context information to the security provision. This paper defines an EdgeCentric Context Sharing Architecture that provides context-aware security by using shared context information. Moreover, we discuss the challenges in the context-aware security area."

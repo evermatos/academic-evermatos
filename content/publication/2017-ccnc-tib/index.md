@@ -1,6 +1,6 @@
 +++
-title = "The Role of Lightweight Approaches Towards the Standardization of a Security Architecture for IoT Middleware Systems"
-date = 2016-12-16T19:45:45-08:00
+title = "Evaluating the Use of TLS and DTLS Protocols in IoT Middleware Systems Applied to E-health"
+date = 2017-01-11T19:44:49-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,18 +15,18 @@ authors = ["Ramão Tiago Tiburski", "Leonardo Albernaz Amaral", "Everton de Mato
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Communications Magazine"
-publication_short = ""
+publication = "14th IEEE Annual Consumer Communications & Networking Conference (CCNC)"
+publication_short = "IEEE CCNC 2017"
 
 # Abstract and optional shortened version.
-abstract = "The evolution of the Internet of Things (IoT) requires a well-defined infrastructure of systems that provides services for device abstraction and data management, and also supports the development of applications. Middleware for IoT has been recognized as the system that can provide these services and has become increasingly important for IoT in recent years. The large amount of data that flows into a middleware system demands a security architecture that ensures the protection of all layers of the system, including the communication channels and border APIs used to integrate the applications and IoT devices. However, this security architecture should be based on lightweight approaches since middleware systems are widely applied in constrained environments. Some works have already defined new solutions and adaptations to existing approaches in order to mitigate IoT middleware security problems. In this sense, this article discusses the role of lightweight approaches to the standardization of a security architecture for IoT middleware systems. This article also analyzes concepts and existing works, and presents some important IoT middleware challenges that may be addressed by emerging lightweight security approaches in order to achieve the consolidation of a standard security architecture and the mitigation of the security problems found in IoT middleware systems."
+abstract = "The evolution of the Internet of Things (IoT) has brought new security requirements in terms of communication services with respect to data transmitted in mobile networks. Although IoT middleware systems have been used to cope with the most relevant requirements demanded by different IoT applications, security is a special topic that is not mature enough in this kind of technology. E-health is an example of environment that exposes sensitive data. The security challenges regarding e-health applications are concentrated mainly on issues surrounding the communication layer, specially those cases where data are transmitted over insecure networks. TLS and DTLS protocols have been chosen by most of the existing IoT systems in order to protect such communications. However, none of them was designed to be used in IoT situations. In addition, none of the existing works analyzes their suitability to the IoT regarding the usage of mobile networks, which are common in real-world scenarios of e-health. In this paper, we analyze the use of TLS and DTLS protocols in IoT middleware systems applied to the e-health environment regarding performance (i.e., response time), overhead, network latency and packet loss when operating in mobile networks. We evaluated both protocols through a specific e-health scenario. Tests revealed the usage of mobile networks increases response time and overhead of both protocols, on average, when compared to traditional networks."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/7785892"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/7983155"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/MCOM.2016.1600462CM"
+doi = "10.1109/CCNC.2017.7983155"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
