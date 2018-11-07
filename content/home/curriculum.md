@@ -40,7 +40,7 @@ Fulbright visiting researcher with main foucus in develop the doctoral dissertat
 
 <p><strong>Adjunct Professor</strong> (Feb. 2018 - Present) <br/>
 <em>IMED, Passo Fundo, Brazil</em> <br/>
-Lessons in Computer Architecture and Organization, and Internet of Things. Research in Embedded systems and Internet of Things.</p>
+Lessons in Computer Architecture and Organization, and Cryptography and Information Security. Research in Embedded systems and Internet of Things.</p>
 
 <p><strong>Researcher</strong> (Mar. 2014 - Present) <br/>
 <em>Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil</em> <br />
