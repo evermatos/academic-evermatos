@@ -22,7 +22,7 @@ email_form = 0
 
 <div class="col-lg-4 mr-auto text-center">
 				<div class="container">
-					<div id="review_recaptcha" class="g-recaptcha" sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
+					<div id="review_recaptcha" class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 					<a id="email" href="#">Verify captcha to get e-mail</a>
 				</div>
 </div>
