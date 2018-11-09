@@ -56,7 +56,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "IMED", url = "https://www.imed.edu.br/" } ]
+  organizations = [ { name = "IMED", url = "https://www.imed.edu.br/" } <br> everton DOT matos AT imed DOT edu DOT br]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "everton.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -245,14 +245,6 @@ enableGitInfo = false
   #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
-
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = <a href = "mailto:evertonDOTmatosATeduDOTpucrsDOTbr" 
-              onclick = "this.href=this.href
-              .replace(/AT/,'&#64;')
-              .replace(/DOT/,'&#46;')"> </a>
 
   [[params.social]]
     icon = "google-scholar"
