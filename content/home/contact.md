@@ -19,20 +19,16 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
+<script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit'></script>
+<div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 
-<div class="col-lg-4 mr-auto text-center">
-				<div class="container">
-					<div id="review_recaptcha" class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
-					<a id="email" href="#">Verify captcha to get e-mail</a>
-				</div>
-</div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- <script
 		src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script> -->
 <script src="{% static 'webcontext/js/bootstrap.min.js' %}"></script>
 <script src="{% static 'webcontext/js/form_comment.js' %}"></script>
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"></script>
+
 <script type="text/javascript">
 		var onloadCallback = function() {
 			if ($('#review_recaptcha').length) {
