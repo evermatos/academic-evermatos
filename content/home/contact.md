@@ -31,8 +31,8 @@ email_form = 0
 
 <script type="text/javascript">
 		var onloadCallback = function() {
-			if ($('#review_recaptcha').length) {
-				grecaptcha.render('review_recaptcha', {
+			if ($('#g-recaptcha-response').length) {
+				grecaptcha.render('g-recaptcha-response', {
 					'sitekey' : '{% get_captcha_key %}',
 					'theme' : 'light',
 					callback : showEmail
@@ -46,6 +46,6 @@ email_form = 0
 			domain = '@uni.lu';
 			document.getElementById("email").innerHTML = name + '.' + surname + domain;
 			$("#email").attr("href", 'mailto:' + name + '.' + surname + domain);
-			$('#review_recaptcha').hide();
+			$('#g-recaptcha-response').hide();
 		}
 </script>
