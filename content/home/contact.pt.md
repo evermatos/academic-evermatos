@@ -17,7 +17,7 @@ weight = 70
 
 <div class="container">
 					<div id="review_recaptcha"></div>
-					<a id="email" href="#contact">Verify captcha to get e-mail</a>
+					<a id="email" href="#contact">Verifique o captcha para visualizar o e-mail</a>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
