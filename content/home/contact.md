@@ -19,28 +19,7 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-<div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>
-<script type="text/javascript">
-		var onloadCallback = function() {
-			alert("I am an alert 1213!")
-			if ($('#g-recaptcha-response').length > 0) {alert("I am an alert box!");
-				grecaptcha.render('g-recaptcha-response', {
-					'sitekey' : '{% get_captcha_key %}',
-					'theme' : 'light',
-					callback : showEmail
-				});
-			}
-		};
-		function showEmail() {
-			// ideally you would do server side verification of the captcha and then the server would return the e-mail
-			alert("I am an alert boaaaaaaaaax!");
-			name = 'willian';
-			surname = 'tessarolunardi';
-			domain = '@uni.lu';
-			document.getElementById("email").innerHTML = name + '.' + surname + domain;
-			$("#email").attr("href", 'mailto:' + name + '.' + surname + domain);
-			$('#g-recaptcha-response').hide();
-		}
-</script>
+<p>Please email me at everton.matos
+<span style="display: none;">REMOVE</span>
+@imed.edu.br</p>
