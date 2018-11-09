@@ -29,7 +29,7 @@ email_form = 0
 
 <script type="text/javascript">
 		var onloadCallback = function() {
-			if ($('#g-recaptcha-response').length) {
+			if ($('#g-recaptcha-response').length) {alert("I am an alert box!");
 				grecaptcha.render('g-recaptcha-response', {
 					'sitekey' : '{% get_captcha_key %}',
 					'theme' : 'light',
@@ -39,6 +39,7 @@ email_form = 0
 		};
 		function showEmail() {
 			// ideally you would do server side verification of the captcha and then the server would return the e-mail
+			alert("I am an alert boaaaaaaaaax!");
 			name = 'willian';
 			surname = 'tessarolunardi';
 			domain = '@uni.lu';
