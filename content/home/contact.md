@@ -22,45 +22,19 @@ weight = 70
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- <script
-		src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script> 
+		src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script> -->
 <script src="{% static 'webcontext/js/bootstrap.min.js' %}"></script>
-<script src="{% static 'webcontext/js/form_comment.js' %}"></script>-->
+<script src="{% static 'webcontext/js/form_comment.js' %}"></script>
 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"></script>
 <script type="text/javascript">
 		var onloadCallback = function() {
-			$ch = curl_init();
-
-			curl_setopt($ch, CURLOPT_URL, "https://www.google.com/recaptcha/api/siteverify");
-			curl_setopt($ch, CURLOPT_POST, 1);
-			curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query([
-    			'secret'   => YOUR_RECAPTCHA_SECRET,
-    			'response' => USER_RESPONSE_TOKEN,
-			]));
-
-			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-
-			$data = curl_exec($ch);
-
-			curl_close($ch);
-
-			$response = @json_decode($data);
-
-			if ($response && $response->success)
-			{			
-			    if ($('#review_recaptcha').length) {
-					grecaptcha.render('review_recaptcha', {
-						'sitekey' : '6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw',
-						'theme' : 'light',
-						callback : showEmail
-					});
-				}
+		    if ($('#review_recaptcha').length) {
+				grecaptcha.render('review_recaptcha', {
+					'sitekey' : '6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw',
+					'theme' : 'light',
+					callback : showEmail
+				});
 			}
-			else
-			{
-			    // response is invalid for some reason
-			    // you can find more in $data->{"error-codes"}
-			}
-			
 		};
 		function showEmail() {
 			// ideally you would do server side verification of the captcha and then the server would return the e-mail
