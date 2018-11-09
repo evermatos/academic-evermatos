@@ -21,10 +21,9 @@ email_form = 0
 +++
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<div class="g-recaptcha" sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
+<div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 
 <div class="col-lg-4 mr-auto text-center">
-				<i class="fa fa-envelope fa-3x mb-3 sr-contact"></i>
 				<div class="container">
 					<div id="review_recaptcha"></div>
 					<a id="email" href="#">Verify captcha to get e-mail</a>
