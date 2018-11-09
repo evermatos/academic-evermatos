@@ -249,7 +249,10 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:everton.matos@edu.pucrs.br"  # For a direct email link, use "mailto:test@example.org".
+    link = <a href = "mailto:evertonDOTmatosATeduDOTpucrsDOTbr" 
+              onclick = "this.href=this.href
+              .replace(/AT/,'&#64;')
+              .replace(/DOT/,'&#46;')"> </a>
 
   [[params.social]]
     icon = "google-scholar"
