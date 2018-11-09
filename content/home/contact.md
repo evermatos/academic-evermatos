@@ -22,10 +22,10 @@ email_form = 0
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
-
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"></script>
 <script type="text/javascript">
 		var onloadCallback = function() {
-			if ($g-recaptcha-response.length) {
+			if ("$g-recaptcha-response".length) {
 				grecaptcha.render('review_recaptcha', {
 					'data-sitekey' : '{% get_captcha_key %}',
 					'theme' : 'light',
@@ -40,6 +40,6 @@ email_form = 0
 			domain = '@imed.edu.br';
 			document.getElementById("email").innerHTML = name + '.' + surname + domain;
 			$("#email").attr("href", 'mailto:' + name + '.' + surname + domain);
-			$g-recaptcha-response.hide();
+			"$g-recaptcha-response".hide();
 		}
 	</script>
