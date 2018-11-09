@@ -17,7 +17,7 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 0
+#email_form = 0
 +++
 
 <div class="container">
@@ -43,9 +43,9 @@ email_form = 0
 		};
 		function showEmail() {
 			// ideally you would do server side verification of the captcha and then the server would return the e-mail
-			name = 'willian';
-			surname = 'tessarolunardi';
-			domain = '@uni.lu';
+			name = 'everton';
+			surname = 'matos';
+			domain = '@imed.edu.br';
 			document.getElementById("email").innerHTML = name + '.' + surname + domain;
 			$("#email").attr("href", 'mailto:' + name + '.' + surname + domain);
 			$('#review_recaptcha').hide();
