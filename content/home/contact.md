@@ -20,8 +20,7 @@ autolink = true
 email_form = 0
 +++
 
-<script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit'></script>
-<div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
+<div class="g-recaptcha" sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 
 <div class="col-lg-4 mr-auto text-center">
 				<div class="container">
@@ -35,6 +34,7 @@ email_form = 0
 		src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script> -->
 <script src="{% static 'webcontext/js/bootstrap.min.js' %}"></script>
 <script src="{% static 'webcontext/js/form_comment.js' %}"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"></script>
 <script type="text/javascript">
 		var onloadCallback = function() {
 			if ($('#review_recaptcha').length) {
