@@ -1,23 +1,18 @@
 +++
-# Contact widget.
-widget = "contact"
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
 active = true
 date = 2016-04-20T00:00:00
 
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Contact"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 70
 
-# Automatically link email and phone?
-#autolink = true
-
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 0
 +++
 
 <div class="container">
