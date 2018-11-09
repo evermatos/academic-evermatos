@@ -19,14 +19,13 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-<script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback'></script>
 <div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 
-
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>
 <script type="text/javascript">
 		var onloadCallback = function() {
 			alert("I am an alert 1213!")
-			if ($('#g-recaptcha-response').length) {alert("I am an alert box!");
+			if ($('#g-recaptcha-response').length > 0) {alert("I am an alert box!");
 				grecaptcha.render('g-recaptcha-response', {
 					'sitekey' : '{% get_captcha_key %}',
 					'theme' : 'light',
