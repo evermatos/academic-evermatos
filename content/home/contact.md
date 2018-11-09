@@ -19,7 +19,7 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-<script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit'></script>
+<script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback'></script>
 <div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 
 
