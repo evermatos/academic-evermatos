@@ -20,6 +20,10 @@ autolink = true
 email_form = 0
 +++
 
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
+
+
 <section class="py-5 container" id="contact">
 			<div class="col-lg-4 mr-auto text-center">
 				<i class="fa fa-envelope fa-3x mb-3 sr-contact"></i>
@@ -39,7 +43,7 @@ email_form = 0
 		var onloadCallback = function() {
 			if ($('#review_recaptcha').length) {
 				grecaptcha.render('review_recaptcha', {
-					'sitekey' : '{% get_captcha_key %}',
+					'data-sitekey' : '{% get_captcha_key %}',
 					'theme' : 'light',
 					callback : showEmail
 				});
