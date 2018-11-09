@@ -23,7 +23,6 @@ email_form = 0
 <div class="container">
 					<div id="review_recaptcha"></div>
 					<a id="email" href="#">Verify captcha to get e-mail</a>
-					<div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -36,7 +35,7 @@ email_form = 0
 		var onloadCallback = function() {
 			if ($('#review_recaptcha').length) {
 				grecaptcha.render('review_recaptcha', {
-					'sitekey' : '{% get_captcha_key %}',
+					'sitekey' : '6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw',
 					'theme' : 'light',
 					callback : showEmail
 				});
