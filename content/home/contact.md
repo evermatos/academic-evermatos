@@ -23,12 +23,9 @@ email_form = 0
 <div class="g-recaptcha" data-sitekey="6LdcpnkUAAAAAIbbjTLpmgntQ8TThBEQrAhL_Zjw"></div>
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<!-- <script
-		src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script> -->
-
 <script type="text/javascript">
 		var onloadCallback = function() {
+			alert("I am an alert 1213!")
 			if ($('#g-recaptcha-response').length) {alert("I am an alert box!");
 				grecaptcha.render('g-recaptcha-response', {
 					'sitekey' : '{% get_captcha_key %}',
