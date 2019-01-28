@@ -38,7 +38,7 @@ weight = 5
 
 # Biografia
 
-Everton de Matos é um estudante de Doutorado, na área de context-awarenes para Internet of Things, na Escola Politécnica da [Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)](http://www.pucrs.br/), atuando no Grupo de Sistemas Embarcados (GSE), com o [Prof. Fabiano Hessel](https://scholar.google.com/citations?user=cZguQ0UAAAAJ) como seu orientador.
+Everton de Matos é um estudante de Doutorado, na área de context-awarenes para Internet of Things, na Escola Politécnica da [Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)](http://www.pucrs.br/). Atua no Grupo de Sistemas Embarcados (GSE), com o [Prof. Fabiano Hessel](https://scholar.google.com/citations?user=cZguQ0UAAAAJ) como seu orientador.
 
 Everton foi contemplado com uma bolsa [Fulbright](http://fulbright.org.br/) para desenvolver sua tese de Doutorado na [University of Southern California (USC)](https://www.usc.edu/) durante o ano acadêmico 2018-2019, sob a supervisão do [Prof. Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/).
 
