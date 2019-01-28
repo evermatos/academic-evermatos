@@ -25,7 +25,7 @@ weight = 5
   year = 2020
 
 [[education.courses]]
-  course = "Mestrado em Ciência da Computaçãoe"
+  course = "Mestrado em Ciência da Computação"
   institution = "Pontifícia Universidade Católica do Rio Grande do Sul"
   year = 2016
 
