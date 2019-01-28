@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/7355580"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/MCOM.2015.7355580"
+doi = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
