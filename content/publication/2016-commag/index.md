@@ -26,7 +26,7 @@ abstract = "The evolution of the Internet of Things (IoT) requires a well-define
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/MCOM.2016.1600462CM"
+doi = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

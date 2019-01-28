@@ -1,10 +1,10 @@
 +++
-title = "Context-Aware System for Information Services Provision in the Internet of Things"
-date = 2015-09-11T19:46:34-08:00
+title = "Context Interoperability for IoT Through an Edge-Centric Context Sharing Architecture"
+date = 2018-07-03T19:29:41-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Everton de Matos", "Leonardo A. Amaral", "Ramão Tiburski", "Willian T. Lunardi", "Fabiano Hessel", "Sabrina Marczak"]
+authors = ["Everton de Matos", "Ramão Tiago Tiburski", "Leonardo Albernaz Amaral", "Fabiano Hessel"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Everton de Matos", "Leonardo A. Amaral", "Ramão Tiburski", "Willian
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE 20th Conference on Emerging Technologies & Factory Automation (ETFA)"
-publication_short = "IEEE ETFA 2015"
+publication = "2018 IEEE Symposium on Computers and Communications (ISCC)"
+publication_short = "IEEE ISCC 2018"
 
 # Abstract and optional shortened version.
-abstract = "In the last years a new computing paradigm called Internet of Things (IoT) has been gaining more attention. This paradigm has become popular by embedding mobile network and processing capability into a wide range of physical computing devices used in everyday life of many people. An important part that composes the IoT is the middleware, which is a system that abstracts the management of physical devices and provides services based on the information of these devices. Context-aware is an important feature of IoT middleware systems. This feature allows to discover, understand, and store relevant information related to devices and their respective events. In this sense, this work aims to present an ongoing system that has been developed to provide services of contextualized information about IoT devices in heterogeneous environments."
+abstract = "The adoption of the Internet of Things (IoT) demands advances to cope with the large heterogeneity of IoT entities (i.e., systems, applications, and devices). Context information is an essential characteristic of these entities, which can store relevant details about their environments and related events. However, with the integration of different IoT vertical domains, providing isolated context is no longer enough. Sharing the context information is mandatory to have interoperability. Edge computing emerges as a promising approach to help in filling the context sharing gap by minimizing information overhead and reducing network latency. In this sense, this paper defines an Edge-centric Context Sharing Architecture able to make context sharing based on edge-to-fog approach. We also discuss the requirements for context sharing and the related work in the area to make clear the novelty of the architecture."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/7301624/"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/8456125"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
