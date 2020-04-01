@@ -19,6 +19,7 @@ weight = 60
 
 <p><strong>Doutorado em Ciência da Computação</strong> (Mar. 2016 - Mar. 2020) <br/>
 <em>Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brasil</em> <br/>
+<strong>Título</strong>: Edge-Centric Context Sharing Architecture for Internet of Things Environments: Context Interoperability and Context-Aware Security <br/>
 <strong>Orientador</strong>: Dr. Fabiano Hessel</p>
 
 <p><strong>Mestrado em Ciência da Computação</strong> (Mar. 2014 - Mar. 2016) <br/>

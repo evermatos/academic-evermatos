@@ -19,6 +19,7 @@ weight = 60
 
 <p><strong>PhD in Computer Science</strong> (Mar. 2016 - Mar. 2020) <br/>
 <em>Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil</em> <br/>
+<strong>Title</strong>: Edge-Centric Context Sharing Architecture for Internet of Things Environments: Context Interoperability and Context-Aware Security <br/>
 <strong>Advisor</strong>: Dr. Fabiano Hessel</p>
 
 <p><strong>MSc in Computer Science</strong> (Mar. 2014 - Mar. 2016) <br/>
