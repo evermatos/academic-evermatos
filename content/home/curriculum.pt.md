@@ -65,6 +65,7 @@ Desenvolvimento de algoritmos para processamento paralelo utilizando linguagem R
 <h1 id="awards">Prêmios e Honrarias:</h1>
 
 <ul>
+<li><strong>2020</strong> Aprovado com louvor no Doutorado em Ciência da Computação - Pontifícia Universidade Católica do Rio Grande do Sul</li>
 <li><strong>2018</strong> Bolsa Doctoral Dissertation Research Award (DDRA) - Fulbright</li>
 <li><strong>2016</strong> Aprovado com louvor no Mestrado em Ciência da Computação - Pontifícia Universidade Católica do Rio Grande do Sul</li>
 <li><strong>2015</strong> Finalista (entre os 10 melhores) no concurso de melhor Dissertação de Mestrado da Sociedade Brasileira de Computação</li>
