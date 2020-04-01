@@ -17,7 +17,7 @@ weight = 60
 
 <h1 id="education">Education:</h1>
 
-<p><strong>PhD in Computer Science</strong> (Mar. 2016 - Present) <br/>
+<p><strong>PhD in Computer Science</strong> (Mar. 2016 - Mar. 2020) <br/>
 <em>Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil</em> <br/>
 <strong>Advisor</strong>: Dr. Fabiano Hessel</p>
 
@@ -34,15 +34,15 @@ weight = 60
 
 <h1 id="professional">Professional Experience:</h1>
 
-<p><strong>Visiting Researcher</strong> (Aug. 2018 - Present) <br/>
+<p><strong>Adjunct Professor</strong> (Feb. 2018 - Present) <br/>
+<em>IMED, Passo Fundo, Brazil</em> <br/>
+Lessons in Computer Architecture and Organization, Operating Systems, Cryptography and Data Security, and Internet of Things. Research in Embedded systems and Internet of Things.</p>
+
+<p><strong>Visiting Researcher</strong> (Aug. 2018 - May 2019) <br/>
 <em>University of Southern California, Los Angeles, CA</em> <br/>
 Fulbright visiting researcher with main foucus in develop the doctoral dissertation. Research in the Internet of Things area. Research in IoT marketplaces and context-drive decisions.Publication of scientific papers.</p>
 
-<p><strong>Adjunct Professor</strong> (Feb. 2018 - Present) <br/>
-<em>IMED, Passo Fundo, Brazil</em> <br/>
-Lessons in Computer Architecture and Organization, and Internet of Things. Research in Embedded systems and Internet of Things.</p>
-
-<p><strong>Researcher</strong> (Mar. 2014 - Present) <br/>
+<p><strong>Researcher</strong> (Mar. 2014 - Mar. 2020) <br/>
 <em>Pontifical Catholic University of Rio Grande do Sul, Porto Alegre, Brazil</em> <br />
 Research in embedded systems and ubiquitous computing. Research in Context Sharing that is an essential requirement to have a common context information definition for heterogeneous IoT entities. Publication of scientific papers.</p>
 
@@ -65,6 +65,7 @@ Developed algorithms for parallel processing using R and C-XSC. Designed and imp
 <h1 id="awards">Awards and Honors:</h1>
 
 <ul>
+<li><strong>2020</strong> Approved with honor at the PhD in Computer Science - Pontifical Catholic University of Rio Grande do Sul</li>
 <li><strong>2018</strong> Doctoral Dissertation Research Award Scholarship - Fulbright</li>
 <li><strong>2016</strong> Approved with honor at the MSc in Computer Science - Pontifical Catholic University of Rio Grande do Sul</li>
 <li><strong>2015</strong> Finalist (among 10 best) in the contest of best Master&rsquo;s Thesis in Computer Science of Brazilian Computer Society</li>
@@ -77,5 +78,3 @@ Developed algorithms for parallel processing using R and C-XSC. Designed and imp
 <li><strong>English</strong> - Speaking/Listening – advanced, Writing/Reading – advanced - TOEFL ITP Score: 560</li>
 <li><strong>Spanish</strong> - Speaking/Listening – intermediate, Writing/Reading – beginner</li>
 </ul>
-
-

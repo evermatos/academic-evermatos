@@ -17,7 +17,7 @@ weight = 60
 
 <h1 id="education">Educação:</h1>
 
-<p><strong>Doutorado em Ciência da Computação</strong> (Mar. 2016 - Presente) <br/>
+<p><strong>Doutorado em Ciência da Computação</strong> (Mar. 2016 - Mar. 2020) <br/>
 <em>Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brasil</em> <br/>
 <strong>Orientador</strong>: Dr. Fabiano Hessel</p>
 
@@ -34,15 +34,15 @@ weight = 60
 
 <h1 id="professional">Experiência Profissional:</h1>
 
-<p><strong>Pesquisador Visitante</strong> (Ago. 2018 - Presente) <br/>
+<p><strong>Professor Adjunto</strong> (Fev. 2018 - Presente) <br/>
+<em>IMED, Passo Fundo, Brasil</em> <br/>
+Leciona as disciplinas de Arquitetura e Organização de Computadores, Sistemas Operacionais, Criptografia e Segurança da Informação e Internet of Things. Pesquisas na área de Sistemas Embarcados e Internet of Things.</p>
+
+<p><strong>Pesquisador Visitante</strong> (Ago. 2018 - Mai. 2019) <br/>
 <em>University of Southern California, Los Angeles, CA</em> <br/>
 Pesquisador visitante Fulbright com foco principal em desenvolver a tese de doutorado. Pesquisas na área de Internet of Things. Pesquisa em IoT marketplaces e tomada de decisões baseadas no contexto. Publicação de artigos científicos.</p>
 
-<p><strong>Professor Adjunto</strong> (Fev. 2018 - Presente) <br/>
-<em>IMED, Passo Fundo, Brasil</em> <br/>
-Leciona as disciplinas de Arquitetura e Organização de Computadores e Internet of Things. Pesquisas na área de Sistemas Embarcados e Internet of Things.</p>
-
-<p><strong>Pesquisador</strong> (Mar. 2014 - Presente) <br/>
+<p><strong>Pesquisador</strong> (Mar. 2014 - Mar. 2020) <br/>
 <em>Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre, Brasil</em> <br/>
 Pesquisa na área de sistemas embarcados e computação ubíqua. Pesquisa em Compartilhamento de Contexto, que é um requisito essencial para se ter uma definição comum da informação de contexto em ambientes heterogêneos da IoT. Publicação de artigos científicos.</p>
 
@@ -77,5 +77,3 @@ Desenvolvimento de algoritmos para processamento paralelo utilizando linguagem R
 <li><strong>Inglês</strong> - Fala/Compreensão – avançado, Escrita/Leitura – avançado - Nota TOEFL ITP: 560</li>
 <li><strong>Espanhol</strong> - Fala/Compreensão – intermediário, Escrita/Leitura – iniciante</li>
 </ul>
-
-
