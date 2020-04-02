@@ -26,7 +26,7 @@ abstract = "The evolution of the Internet of Things (IoT) and the vast amount of
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

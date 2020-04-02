@@ -1,10 +1,10 @@
 +++
-title = "The Importance of a Standard Security Architecture for SOA-based IoT Middleware"
-date = 2015-12-17T19:46:19-08:00
+title = "Context information sharing for the Internet of Things: A survey"
+date = 2020-01-15T19:29:41-08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ramão Tiago Tiburski", "Leonardo Albernaz Amaral", "Everton de Matos", "Fabiano Hessel"]
+authors = ["Everton de Matos", "Ramão Tiago Tiburski", "Carlos Roberto Moratelli", "Sergio Johann Filho", "Leonardo Albernaz Amaral", "Gowri Ramachandran", "Bhaskar Krishnamachari", "Fabiano Hessel"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Ramão Tiago Tiburski", "Leonardo Albernaz Amaral", "Everton de Mato
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Communications Magazine"
-publication_short = ""
+publication = "Elsevier Computer Networks"
+publication_short = "Elsevier Computer Networks"
 
 # Abstract and optional shortened version.
-abstract = "The proliferation of the Internet of Things (IoT) in several application domains requires a well-defined infrastructure of systems that provides services for device abstraction and data management, and also supports the development of applications. Middleware for IoT has been recognized as the system that can provide this necessary infrastructure of services and has become increasingly important for IoT in recent years. The architecture of an IoT middleware is usually based on an SOA (service-oriented architecture) standard and has security requirement as one of its main challenges. The large amount of data that flows in this kind of system demands a security architecture that ensures the protection of the entire system. However, none of the existing SOAbased IoT middleware systems have defined a security standard that can be used as a reference architecture. In this sense, this article discusses the importance of defining a standard security architecture for SOA-based IoT middleware, analyzes concepts and existing work, and makes considerations about a set of security services that can be used to define a security architecture to mitigate the security threats in SOA-based IoT middleware systems."
+abstract = "Internet of Things (IoT) technology is starting to make an impact in a wide array of applications, including smart cities and industrial environments. Such real-world applications combine computation, communication, sensing, and in some cases, actuation, to monitor and remotely control the environment. Data is at the core of such real-world IoT applications. Analysis, modeling, and reasoning of data are necessary to gain valuable insights. Application developers employ context-aware systems to translate the data into contextual information, which then allows the applications to act cognitively. Context sharing platforms offer a solution to distribute context information to those who may be interested in it, thus enabling context interoperability among different entities. This survey first examines the requirements for sharing context information. It then reviews the relevant literature for context sharing and classifies them based on their requirements and characteristics. Challenges and future directions are presented to encourage the development of context sharing platforms."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/7355580"
+url_pdf = "https://doi.org/10.1016/j.comnet.2019.106988"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
