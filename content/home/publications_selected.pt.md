@@ -31,4 +31,3 @@ list_format = 4
 #  6: Book chapter
 publication_type = "-1"
 +++
-

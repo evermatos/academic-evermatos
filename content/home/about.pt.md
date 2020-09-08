@@ -44,4 +44,4 @@ Everton foi contemplado com uma bolsa [Fulbright](http://fulbright.org.br/) para
 
 Everton possui experiência na ciência da computação e seus principais interesses de pesquisa são IoT, Middleware para IoT, e context-awareness em ambientes IoT. Ele possui Bacharelado em Ciência da Computação pela Universidade de Passo Fundo (UPF) (2014) e Mestrado em Ciência da Computação pela PUCRS (2016). Possui experiência nas seguintes tecnologias: Web Services, Hibernate, Maven, PHP, JSF, C#, Javascript, jQuery, APIs, HTML, CSS, PostgreSQL, MySQL. Conhecimento em práticas de engenharia de software. Proficiente nas linguagens Java e C++. Possui publicações em importantes conferências e revistas.
 
-Atua como Senior Security Research Engineer na [Technology Innovation Institute](https://tii.ae/), no departamento de <em>Secure Systems Research Centre</em>.
+Atua como Senior Security Research Engineer no [Technology Innovation Institute](https://tii.ae/), no departamento de <em>Secure Systems Research Centre</em>.
