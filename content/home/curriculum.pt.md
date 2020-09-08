@@ -35,7 +35,11 @@ weight = 60
 
 <h1 id="professional">Experiência Profissional:</h1>
 
-<p><strong>Professor Adjunto</strong> (Fev. 2018 - Presente) <br/>
+<p><strong>Senior Security Research Engineer</strong> (Ago. 2020 - Presente) <br/>
+<em>Technology Innovation Institute, Abu Dhabi, United Arab Emirates</em> <br/>
+Secure Systems Research Centre.</p>
+
+<p><strong>Professor Adjunto</strong> (Fev. 2018 - Ago. 2018) <br/>
 <em>IMED, Passo Fundo, Brasil</em> <br/>
 Leciona as disciplinas de Arquitetura e Organização de Computadores, Sistemas Operacionais, Criptografia e Segurança da Informação e Internet of Things. Pesquisas na área de Sistemas Embarcados e Internet of Things.</p>
 

@@ -35,7 +35,11 @@ weight = 60
 
 <h1 id="professional">Professional Experience:</h1>
 
-<p><strong>Adjunct Professor</strong> (Feb. 2018 - Present) <br/>
+<p><strong>Senior Security Research Engineer</strong> (Aug. 2020 - Present) <br/>
+<em>Technology Innovation Institute, Abu Dhabi, United Arab Emirates</em> <br/>
+Secure Systems Research Centre.</p>
+
+<p><strong>Adjunct Professor</strong> (Feb. 2018 - Aug. 2020) <br/>
 <em>IMED, Passo Fundo, Brazil</em> <br/>
 Lessons in Computer Architecture and Organization, Operating Systems, Cryptography and Data Security, and Internet of Things. Research in Embedded systems and Internet of Things.</p>
 

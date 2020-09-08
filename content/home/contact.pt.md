@@ -38,11 +38,10 @@ weight = 70
 		};
 		function showEmail() {
 			// ideally you would do server side verification of the captcha and then the server would return the e-mail
-			name = 'everton';
-			surname = 'matos';
-			domain = '@imed.edu.br';
+			name = 'evermatos93';
+			domain = '@gmail.com';
 			document.getElementById("email").innerHTML = name + '.' + surname + domain;
-			$("#email").attr("href", 'mailto:' + name + '.' + surname + domain);
+			$("#email").attr("href", 'mailto:' + name + domain);
 			$('#review_recaptcha').hide();
 		}
 </script>
