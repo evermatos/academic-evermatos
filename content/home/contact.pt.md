@@ -30,7 +30,7 @@ weight = 70
 		var onloadCallback = function() {
 			if ($('#review_recaptcha').length) {
 				grecaptcha.render('review_recaptcha', {
-					'sitekey' : '6Ld7gskZAAAAANskcz6wv_V7o0aOLttP0U-r1drh',
+					'sitekey' : '6LeJ-8kZAAAAAKCXsF9R6-3WS7h6-f5S5Nv4FFg8',
 					'theme' : 'light',
 					callback : showEmail
 				});
